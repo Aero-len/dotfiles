@@ -1,5 +1,6 @@
-# dotfiles
-I'm bored so did this ~ ❯
+# My Dotfiles
 
 
-![hawaii-banner](https://user-images.githubusercontent.com/86827112/140634987-f1df2b5c-7952-4a57-8ac4-6a62e43ad78e.jpg)
+
+![hawaii-banner](https://user-images.githubusercontent.com/86827112/140635091-629cf2c1-6ac6-4060-bcd5-76720889407d.jpg)
+
