@@ -9,21 +9,21 @@ I'm planning on improving it, but this is it.(for now)
 
 # 𝓁𝓈 ~/𝒟𝑒𝓉𝒶𝒾𝓁𝓈
 
-distro - manjaro (will switch to another distro soon)
+***distro - manjaro*** (will switch to another distro soon)
 
-de/wm - bspwm
+***de/wm*** - bspwm
 
-terminal - alacritty
+***terminal*** - alacritty
 
-shell - zsh ( with custom starship prompt )
+***shell*** - zsh _( with custom starship prompt )_
 
-gtk - custom
+***gtk*** - custom
 
-bar - tint2 ( inspired by ![Stardust-kyun](https://github.com/Stardust-kyun) and siduck76 )
+***bar*** - tint2 _( inspired by ![Stardust-kyun](https://github.com/Stardust-kyun) and siduck76 )_
 
-lockscreen - i3lock-fancy ( in the aur )
+***lockscreen*** - i3lock-fancy _( in the aur )_
 
-wallpaper - ![spacemanpink](https://user-images.githubusercontent.com/86827112/140635549-70a50423-cdc8-4455-91fe-5b083f51f739.png)
+***wallpaper*** - ![spacemanpink](https://user-images.githubusercontent.com/86827112/140635549-70a50423-cdc8-4455-91fe-5b083f51f739.png)
 
 # 𝓁𝓈 𝓈𝒸𝓇𝑜𝓉𝓈
 
