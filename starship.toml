@@ -1,0 +1,25 @@
+
+
+# Replace the "❯" symbol in the prompt with "➜"
+
+format = """
+[♥  $directory❯](bold #d8b4bd) """
+
+[character]                            
+
+#success_symbol = "[❯](bold green)"	
+
+success_symbol = "[λ](bold blue)"
+
+#success_symbol = "[❯](#ba8baf)[❯](bold green)[❯](#86c1b9)"
+
+#success_symbol = "[♥](bold green) [♥](bold yellow) [♥](bold red) "     
+
+#success_symbol = "[◗](bold red)[◗](bold yellow)[◗](bold green)"
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true
+add_newline = false
+
+
