@@ -3,7 +3,7 @@
 
 ![hawaii-banner](https://user-images.githubusercontent.com/86827112/140635091-629cf2c1-6ac6-4060-bcd5-76720889407d.jpg)
 
-finally!, this took a long time, hope you like it, 
+finally!!, this took a long time, hope you like it, 
 
 I'm planning on improving it, but this is it.(for now)
 
