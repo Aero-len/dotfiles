@@ -1,5 +1,9 @@
 > bspwm is an amazing wm, it has a lot of customisability
 
+## Config help
+
+For those who are unfamiliar with bspwm, its not hard
+
 
 
 ## The layouts are possible because of bsp-layout
