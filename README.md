@@ -5,7 +5,7 @@
 
 finally!, this took a long time, hope you like it, 
 
-I'm still planning on making it better, but for now i like it
+I'm planning on improving it, but this is it.(for now)
 
 # 𝓁𝓈 ~/𝒟𝑒𝓉𝒶𝒾𝓁𝓈
 
