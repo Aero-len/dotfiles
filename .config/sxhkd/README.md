@@ -1,0 +1,1 @@
+# Sxhkd configuration
