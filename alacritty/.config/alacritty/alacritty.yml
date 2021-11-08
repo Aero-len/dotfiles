@@ -1,0 +1,64 @@
+# Window Settings ------------------------------------
+window:
+  padding:
+    x: 35
+    y: 35
+    # Searches --------------------------------------------
+    search: null
+    matches:
+      foreground: "#000000"
+      background: "#ffffff"
+    focused_match:
+      foreground: CellBackground
+      background: CellForeground
+    bar:
+      background: None
+      foreground: None
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: CellBackground
+    background: CellForeground
+  decorations: full
+# Font ---------------------------------------------------
+font:
+  normal:
+    family: Iosevka Nerd Font
+    style: Italic
+  # Colorscheme ----------------------------------------------
+  # BEGIN ACE
+colors:
+  primary:
+    background: '#1b1f20'
+    foreground: '#d1d9db'
+  cursor:
+    text:       '#1b1f20'
+    cursor:     '#d1d9db'
+  normal:
+    black:      '#1b1f20'
+    red:        '#7F7F83'
+    green:      '#9A9194'
+    yellow:     '#B4AEAF'
+    blue:       '#D7B6BE'
+    magenta:    '#B7BDC2'
+    cyan:       '#CCBCC2'
+    white:      '#d1d9db'
+  bright:
+    black:      '#929799'
+    red:        '#7F7F83'
+    green:      '#9A9194'
+    yellow:     '#B4AEAF'
+    blue:       '#D7B6BE'
+    magenta:    '#B7BDC2'
+    cyan:       '#CCBCC2'
+    white:      '#d1d9db'
+# END ACE
+
+# Cursor
+
+cursor:
+  style: Underline
+  unfocused_hollow: true
+
+  live_config_reload: true
