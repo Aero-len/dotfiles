@@ -25,7 +25,7 @@ I'm planning on improving it, but this is it.(for now)
 
 ***wallpaper*** - ![spacemanpink](https://user-images.githubusercontent.com/86827112/140635549-70a50423-cdc8-4455-91fe-5b083f51f739.png)
 
-# 𝓁𝓈 𝓈𝒸𝓇𝑜𝓉𝓈
+# 𝓁𝓈 ~/𝓈𝒸𝓇𝑜𝓉𝓈
 
 ![snap_21_11_06_21_54](https://user-images.githubusercontent.com/86827112/140635579-f18b42e2-0fa9-4236-ab3b-43cbedbe2170.png)
 ![snap_21_11_07_12_26](https://user-images.githubusercontent.com/86827112/140635613-44f3584d-e958-4bce-aa63-534e455ba7e0.png)
